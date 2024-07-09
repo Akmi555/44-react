@@ -1,5 +1,5 @@
 import "./styles.css";
-import AnimalCard from "../../components/AnimalCard/AnimalCard";
+import AnimalCard from "../../components/AnimalCard/OldAnimalCard";
 import Button from "../../components/Button/Button";
 import { lionObj, zebraObj, hippoObj } from "./data";
 
